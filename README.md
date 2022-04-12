@@ -1,4 +1,4 @@
-Hola me llamo Magdiel Andrés Castellanos de la Cruz
+Hola :wave: me llamo Magdiel Andrés Castellanos de la Cruz
 
 > Learning React js and JavaScript | Desarrollar web JR | Soporte Técnico IT
 
